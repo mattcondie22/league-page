@@ -170,7 +170,7 @@ export const managers = [
       "philosophy": "Your fantasy team's philosophy",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+      },
          {
       "roster": null,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "595761692734980096",      
