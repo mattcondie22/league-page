@@ -128,3 +128,4 @@
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by <a href="http://www.nmelhado.com/">Nicholas Melhado</a><br /></span>
+</footer>
