@@ -198,7 +198,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Scottsdale, AZ", // (optional)
       "bio": "Bio: I love football, fantasy is just my way of using it to make money",
-      "photo": "/managers/mike.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/mikey.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
