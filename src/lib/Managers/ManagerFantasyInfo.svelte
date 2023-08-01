@@ -198,7 +198,7 @@
         <!-- Trading Scale -->
         <div class="infoSlot">
             <div class="infoLabel">
-                Desire to Trade
+                Trade Frequency
             </div>
             <div class="infoIcon">
                 <span class="tradingScale">{viewManager.tradingScale}</span>
