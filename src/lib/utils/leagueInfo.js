@@ -197,20 +197,20 @@ export const managers = [
       "name": "Michael Lopuszynski",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Scottsdale, AZ", // (optional)
-      "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "bio": "Bio: I love football,fantasy is just my way of using it to make money.",
+      "photo": "/managers/mike.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Rival", // Can be anything (usually your rival's name)
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4988, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Your fantasy team's philosophy",
-      "tradingScale": 10, // 1 - 10
-      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "philosophy": "I love my guys, draft em' and stick with em'. Whatever you do... don't trade.",
+      "tradingScale": 1, // 1 - 10
+      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
          {
       "roster": null,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
