@@ -118,9 +118,9 @@ export const managers = [
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
-        name: "Mike", // Can be anything (usually your rival's name)
+        name: "Austin", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/mike.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/austin.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 5849, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -204,7 +204,7 @@ export const managers = [
       "rival": {
         name: "Ray", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.ray", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/ray.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4988, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -244,9 +244,9 @@ export const managers = [
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Mike", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/mike.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 8183, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -265,9 +265,9 @@ export const managers = [
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Tristen", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/tristen.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
