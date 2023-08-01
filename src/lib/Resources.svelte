@@ -19,22 +19,6 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
-            name: "FantasyPros Dynasty Trade Value Chart",
-            url: `https://www.fantasypros.com/${today.getFullYear()}/${today.getMonth() + 1}/fantasy-football-rankings-dynasty-trade-value-chart-${today.toLocaleString('default', { month: 'long' }).toLowerCase()}-${today.getFullYear()}-update/`,
-            icon: "assessment",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
-            name: "DynastyProcess Trade Calculator",
-            url: "https://apps.dynastyprocess.com/calculator/",
-            icon: "calculate",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
             name: "Dynasty League Football",
             url: "https://dynastyleaguefootball.com/",
             icon: "insights",
@@ -58,37 +42,8 @@ import { dynasty } from './utils/helper';
             separator: true,
             redraftOnly: true,
         },
-        {
-            name: "Dynasty 101 Trade Calculator",
-            url: "https://dynasty101.com/trade-calculator/",
-            icon: "calculate",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
-            name: "Dynasty Nerds GM",
-            url: "https://gm.dynastynerds.com/",
-            icon: "insights",
-            premium: true,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
-            name: "Fantasy Football Trade Analyzer",
-            url: `https://fantasyfootballcalculator.com/trade-analyzer`,
-            icon: "calculate",
-            premium: false,
-            separator: true,
-            redraftOnly: true,
-        },
-        {
-            name: "Reddit FF Trade Analyzer",
-            url: "https://www.reddit.com/r/TradeAnalyzerFF/",
-            icon: "assessment",
-            premium: false,
-            separator: false,
-        },
+        
+        
     ];
 </script>
 
@@ -131,7 +86,7 @@ import { dynasty } from './utils/helper';
 
 <div class="pageBody">
     <div class="banner">
-        <h4>Helpful Dynasty Resources</h4>
+        <h4>Helpful Resources</h4>
     </div>
 
     <List class="list" dense>
