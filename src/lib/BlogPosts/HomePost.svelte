@@ -76,9 +76,9 @@
         <LinearProgress indeterminate />
     </div>
 {:else}
-    <h2>League Blog</h2>
+    <h2>League News Hub</h2>
     <Post {leagueTeamManagers} {post} {createdAt} home={true} />
     <div class="center">
-        <a class="viewAll" href="/blog">View More Blog Posts</a>
+        <a class="viewAll" href="/blog">View More Posts</a>
     </div>
 {/if}
