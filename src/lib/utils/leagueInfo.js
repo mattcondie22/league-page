@@ -134,7 +134,7 @@ export const managers = [
       "name": "Adriaan Putman",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Durham, NC", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Bio: Adriaan loves fantasy football when he is winning and hates it when he is not. He will make the most bets on football this season, if we exclude drunk Coates.",
       "photo": "/managers/adriaan.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -143,9 +143,9 @@ export const managers = [
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/triston.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 8675, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Your fantasy team's philosophy",
+      "philosophy": "Never draft WRs in the first round, make at least one pick you regret the rest of the season, and wait for Trey's players to do well and trade pennies for them.",
       "tradingScale": 6, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
