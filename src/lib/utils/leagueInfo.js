@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   In 2016, a group of young boys embarked on a journey that would forever change the course of their lives. This journey would be full of arguments,
   trash-talking, cut-throat competition, and most importantly, brotherhood. Whether these young boys knew what they would be getting into or not is
-  unsure; but the one thing that is sure is that they would turn into men along the way. What is this journey called you ask? Serious Bizness.
+  unsure. There is one thing that is sure however, and that is that they would turn into men along the way. What is this journey called you ask? Serious Bizness.
 
 `;
 
