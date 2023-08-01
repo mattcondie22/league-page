@@ -124,7 +124,7 @@
 		</ul>
 	</div>
 	<!-- PLEASE DO NOT REMOVE THE COPYRIGHT -->
-	<span class="copyright">&copy; 2021 - {year}</span>
+	<span class="copyright">&copy; 2023</span>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by Matt Condie<br /></span>
