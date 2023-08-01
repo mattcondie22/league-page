@@ -21,20 +21,6 @@
             open = true;
             return;
         }
-        const validAuthor = validateID(author);
-        if(!validAuthor) {
-            // handle error
-            errorMessage = 'Unauthorized user';
-            open = true;
-            return;
-        }
-
-        const res = await fetch(`/api/addBlogComments/${validAuthor}`, {
-            method: 'POST',
-            body: JSON.stringify({
-                comment: comment.trim(),
-                postID
-            })
         })
 
         const newComment = await res.json();
