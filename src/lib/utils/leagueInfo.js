@@ -42,7 +42,6 @@ export const managers = [
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "philosophy": "fuck Matt Rhule",
       "tradingScale": 9, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       "roster": null,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
