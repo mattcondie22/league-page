@@ -82,7 +82,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="/managers/sblogo.jpg", /></a>
 
 	<div class="container">
 		<IconButton
