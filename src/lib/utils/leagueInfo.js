@@ -218,7 +218,7 @@ export const managers = [
       "name": "Triston Reed",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Scottsdale, AZ", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Bio: Triston doesn't watch football and still manages to make playoffs every year.",
       "photo": "/managers/triston.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -229,7 +229,7 @@ export const managers = [
       },
       "favoritePlayer": 536, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "DEF", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Your fantasy team's philosophy.",
+      "philosophy": "No trade gang",
       "tradingScale": 2, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
