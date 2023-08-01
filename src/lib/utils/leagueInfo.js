@@ -50,7 +50,7 @@ export const managers = [
       "name": "Matt Condie",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Scottsdale, AZ", // (optional)
-      "bio": "The sweatiest player in the league.",
+      "bio": "Bio: Matt is a fantasy try-hard and cares way too much about fantasy. He aspires to become the first 2 and a half time champion this season.",
       "photo": "/managers/matt.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
