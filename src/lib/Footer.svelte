@@ -127,5 +127,5 @@
 	<span class="copyright">&copy; 2021 - {year} <a href="https://github.com/nmelhado/league-page">League Page</a></span>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
-	<span class="creator">Built by Matt Condie</a><br /></span>
+	<span class="creator">Built by Matt Condie<br /></span>
 </footer>
