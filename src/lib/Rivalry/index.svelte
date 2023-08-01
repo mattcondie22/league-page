@@ -171,7 +171,7 @@
         </div>
     {:else}
         <div class="center">
-            <img class="helmets" src="/helmets.png" alt="placeholder of helmets clashing" />
+            <img class="helmets" src="/helmets.png" />
         </div>
     {/if}
 {:else}
