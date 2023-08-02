@@ -77,7 +77,7 @@ export const managers = [
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Tommy", // Can be anything (usually your rival's name)
-        link: null, // manager array number within this array, or null to link back to all managers page
+        link: 1, // manager array number within this array, or null to link back to all managers page
         image: "/managers/tommy.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4035, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
@@ -185,7 +185,7 @@ export const managers = [
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/matt.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 4629, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 745, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "philosophy": "That's when it just clicked in my mind that if you just run through somebody face, a lot of people aren't going to be able to take that over and over and over and over and over and over and over and over and over and over and over and over again. They just not gonna want that. - Lynch",
       "tradingScale": 4, // 1 - 10
