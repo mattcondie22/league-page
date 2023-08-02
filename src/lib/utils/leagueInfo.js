@@ -155,7 +155,7 @@ export const managers = [
       "name": "Tristen Coates-Carter",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Nashville, TN", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Bio: Tristen has to work every Sunday but that doesn't stop him from getting lit af and crushing his opponents every week in fantasy. First b2b league winner, bringing home a 3rd ship this year after an unlucky year on the 3Pete.",
       "photo": "/managers/tristen.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -164,9 +164,9 @@ export const managers = [
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/trey.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Your fantasy team's philosophy",
+      "favoritePlayer": 1569, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "philosophy": "Draft whoever sounds the best in the moment and make trades for future draft picks.",
       "tradingScale": 7, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
