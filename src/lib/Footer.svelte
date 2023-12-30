@@ -22,13 +22,6 @@
         }
     }
 
-	onMount(async () => {
-		const res = await fetch('/api/checkVersion', {compress: true})
-		const needUpdate = await res.json();
-		outOfDate = needUpdate;
-        resize(el?.getBoundingClientRect(), true);
-	})
-
     let managersOutOfDate = false;
     if(managers) {
         for(const manager of managers) {
