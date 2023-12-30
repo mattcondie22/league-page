@@ -3,7 +3,7 @@ export const leagueID = "920454706529386496"; // your league ID
 export const leagueName = "Serious Bizness"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
-export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
+export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `In 2016, a group of young boys embarked on a journey that would forever change the course of their lives. This journey would be full of arguments,
